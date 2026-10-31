@@ -1,0 +1,8 @@
+{
+  "name": "The Water Line",
+  "description": "An interactive charity: water game where players catch clean water droplets to support awareness.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
